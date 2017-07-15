@@ -35,7 +35,7 @@ Before starting, download:
 
 > P.S. These instructions were written by a Rubyist web developer. I don't really know what I'm doing, but this is how I got it to work.
 
-First, download the Unity project. The link is coming, but if you ping @matt on [Slack][slack], he'll send it to you. (What terrible documentation, I know. It's too big for GitHub, and it's going to take a bit to get it up on Dropbox or someplace else accessible. Sorry. You're so kind and patient.)
+First, download the Unity project by downloading this repo and opening the folder with Unity.
 
 Next, go to File > Build Settings. Click "iOS" (or Android if that's your jam) and click "Switch Platform". If nothing happens, cool, then things are fine. If something starts happening, it's going to take kind of a while.
 
